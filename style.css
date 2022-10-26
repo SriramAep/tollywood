@@ -90,7 +90,7 @@ h2 {
 }
 
 .cover {
-    height: 80vh;
+    min-height: 80vh;
     display: grid;
     /* grid-gap: 20px; */
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
